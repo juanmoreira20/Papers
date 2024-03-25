@@ -1,2 +1,2 @@
-# Papers
- This repo contains simulations and instructions to my field of research and some for my published papers. It will be divided in a base category for the field, covering in depth some concept and codes that i apply. Paper simulation and instructions will be organized by congress and journal categories
+# Base
+My research is focused on time delay and LPV systems using optimization techniques, mainly convex optimization in the form of Linear Matrix Inequalities (LMI's). Time-delay instability is dealt with a predictor based approach, in the sense that it will be applied the SFSP controller. Some results regarding input saturation will be added after the paper is published.
